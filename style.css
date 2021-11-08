@@ -1,0 +1,28 @@
+.heading_div1{
+    font-size: 30px;
+    width: 90%;
+    margin: 0px;
+    box-shadow: 5px 10px 18px darkblue;
+    border: 1px solid;
+    padding: 10px;
+    font-family: cursive;
+
+}
+.heading_div2{
+    float: none;
+    background:purple;
+    padding: 10px;
+    border-radius: 30px;
+    color: skyblue;
+    box-shadow: 5px 10px 18px darkblue;
+    height: 20%;
+    font-family: cursive;
+}
+.heading_div3{
+    font-size: 23px;
+    width: 100%;
+    word-spacing: 10px;
+    margin-top: 10px;
+    font-family: cursive;
+
+}
